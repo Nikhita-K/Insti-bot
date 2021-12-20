@@ -1,0 +1,6 @@
+SEP=,
+NAME,TYPE,LOCATION,
+"Insti-Bot","App Service","South India"
+"Insti-BotQnAService","QnA maker","West US"
+"Insti-BotQnAService","App Service plan","South India"
+"instibot-as56kxbx3t7yp3w","Search service","Central India"
